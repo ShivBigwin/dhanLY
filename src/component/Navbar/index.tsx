@@ -368,7 +368,7 @@ export default function Navbar() {
               ))}
 
               <a
-                href="https://loanapply.dhanly.in"
+                // href="https://loanapply.dhanly.in"
                 className="px-6 py-3 rounded-xl bg-gradient-to-r from-blue-600 to-cyan-500 text-white font-semibold shadow-md hover:shadow-lg transition"
               >
                 Get Started
@@ -463,7 +463,7 @@ export default function Navbar() {
                 {/* BUTTON */}
                 <div className="mt-10">
                   <a
-                    href="https://loanapply.dhanly.in"
+                    // href="https://loanapply.dhanly.in"
                     className="block w-full text-center py-3 rounded-xl bg-gradient-to-r from-blue-600 to-cyan-500 text-white font-semibold shadow-md"
                   >
                     Get Started

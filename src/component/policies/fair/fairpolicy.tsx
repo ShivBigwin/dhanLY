@@ -15,9 +15,9 @@ export default function FairPracticePolicy() {
       title: "Introduction",
       content: `
         <img src="/policy/md.png" alt="" />
-        <p class="mt-4">DhanLY Private Limited (“DhanLY” or “the Company”) is a Non-Banking Financial Company (NBFC), registered with the Reserve Bank of India (RBI) as a non-deposit taking, non-systemically important NBFC. The Company is primarily engaged in providing personal loans, MSME finance, and other financial services.</p></br>
+        <p class="mt-4">Aadi Finance Private Limited is primarily engaged in providing personal loans, MSME finance, and other financial services.</p></br>
         
-        <p>The Policy has been formulated in accordance with the guidelines issued by the Reserve Bank of India for Non-Banking Financial Companies (NBFCs). This Policy is applicable to all DhanLY's products and services.</p>
+        <p>The Policy has been formulated in accordance with the guidelines issued by the Reserve Bank of India. This Policy is applicable to all DhanLY's products and services.</p>
       `,
     },
 
@@ -50,7 +50,7 @@ export default function FairPracticePolicy() {
       content: `
         <div class="space-y-6">
           <div>
-            <h3 class="font-semibold text-lg mb-4">1. Fair Practice Guidelines For NBFC's:</h3>
+            <h3 class="font-semibold text-lg mb-4">1. Fair Practice Guidelines:</h3>
              <img src="/policy/fair-practice.png" alt="" />
           </div>
 

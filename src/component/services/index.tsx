@@ -7,7 +7,7 @@ import { text } from "stream/consumers";
 const whychoose = [
   {
     icon: "whychoose1.png",
-    text: "RBI-Registered NBFC with responsible and ethical lending practices",
+    text: "Fast approvals, transparent processes, and financial support you can trust",
   },
   {
     icon: "whychoose2.png",

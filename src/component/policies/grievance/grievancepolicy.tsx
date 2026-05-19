@@ -14,9 +14,9 @@ export default function GrievanceRedressalPolicy() {
       title: "Introduction And Policy Statement",
       content: `
         <img src="/policy/Gr-intro.jpg" alt="" />
-        <p class="mt-4">DhanLY Private Limited (“the Company” or “DhanLY”) is a Non-Banking Financial Company (NBFC) registered with the Reserve Bank of India (“RBI”). As a responsible financial institution committed to ethical business practices and regulatory compliance, DhanLY places the highest priority on providing transparent, fair, and customer-centric services.</p><br/>
+        <p class="mt-4">As a responsible financial institution committed to ethical business practices and regulatory compliance, DhanLY places the highest priority on providing transparent, fair, and customer-centric services.</p><br/>
         <p>In line with its mission to uphold the highest standards of customer satisfaction and financial integrity, the Company acknowledges that a robust grievance redressal mechanism is an integral part of corporate governance and financial services delivery. This mechanism is designed not only to address customer complaints, concerns, and disputes but also to identify systemic gaps and ensure continuous improvement.</p><br/>
-        <p>This Grievance Redressal Policy (“Policy”) is formulated in accordance with the applicable provisions of the RBI Master Directions on NBFCs, the Fair Practices Code, and the Reserve Bank – Integrated Ombudsman Scheme, 2021. The Policy aims to provide a structured, transparent, and responsive process for resolving customer grievances while ensuring regulatory adherence, customer protection, and institutional accountability.</p><br/>
+        <p>This Grievance Redressal Policy (“Policy”) is formulated in accordance with the applicable provisions of the RBI Master Directions, the Fair Practices Code, and the Reserve Bank – Integrated Ombudsman Scheme, 2021. The Policy aims to provide a structured, transparent, and responsive process for resolving customer grievances while ensuring regulatory adherence, customer protection, and institutional accountability.</p><br/>
         <p>The Policy underscores DhanLY's unwavering commitment to uphold trust, enhance service efficiency, and ensure that all customer interactions are addressed in a timely, fair, and equitable manner. It also ensures that customers are informed about their rights, the available redressal mechanisms, and the proper channels to escalate their concerns.</p>
       `,
     },
@@ -141,7 +141,7 @@ export default function GrievanceRedressalPolicy() {
       content: `
         <div class="space-y-6">
           <div>
-            <h3 class="font-semibold text-lg mb-4">1. Fair Practice Guidelines For NBFC's:</h3>
+            <h3 class="font-semibold text-lg mb-4">1. Fair Practice Guidelines:</h3>
              <img src="/policy/commitment.png" alt="" class="mt-8 mb-8" />
              <img src="/policy/transparency.png" alt="" class="mt-8"/>
              <img src="/policy/transparency2.png" alt="" />

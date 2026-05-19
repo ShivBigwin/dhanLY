@@ -289,17 +289,15 @@ export default function Partners() {
 
                 {/* Floating Badges */}
                 <div className="flex justify-center space-x-4 mt-8">
-                  {["RBI Approved", "ISO Certified", "GDPR Compliant"].map(
-                    (badge, idx) => (
-                      <motion.div
-                        key={idx}
-                        whileHover={{ y: -5 }}
-                        className="px-4 py-2 rounded-full bg-gradient-to-r from-gray-50 to-white border border-gray-300 text-sm text-gray-700 shadow-sm hover:shadow-md"
-                      >
-                        {badge}
-                      </motion.div>
-                    ),
-                  )}
+                  {["GDPR Compliant"].map((badge, idx) => (
+                    <motion.div
+                      key={idx}
+                      whileHover={{ y: -5 }}
+                      className="px-4 py-2 rounded-full bg-gradient-to-r from-gray-50 to-white border border-gray-300 text-sm text-gray-700 shadow-sm hover:shadow-md"
+                    >
+                      {badge}
+                    </motion.div>
+                  ))}
                 </div>
               </div>
             </div>

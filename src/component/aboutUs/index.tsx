@@ -333,7 +333,7 @@ export default function About() {
                   <div>
                     <p className="text-gray-600 leading-relaxed">
                       Our vision is to become one of India's most trusted
-                      digital NBFCs by offering ethical, transparent, and
+                      organisation by offering ethical, transparent, and
                       customer-first lending solutions. We aim to build
                       long-term relationships through responsible finance and
                       seamless digital experiences tailored to individual needs.

@@ -20,9 +20,9 @@ const contactCards = [
     icon: <IoMailSharp />,
     title: "Email Support",
     description: "Get detailed assistance via email",
-    details: "partnership@aadifinance.org",
+    details: "wecare@dhanly.in",
     gradient: "from-white to-blue-50",
-    action: "partnership@aadifinance.org",
+    action: "wecare@dhanly.in",
     actionText: "Send Email",
   },
   {

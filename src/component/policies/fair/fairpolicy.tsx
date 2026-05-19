@@ -334,10 +334,10 @@ export default function FairPracticePolicy() {
                     need assistance, please contact our Grievance Redressal
                     Officer at{" "}
                     <a
-                      href="mailto:partnership@aadifinance.org"
+                      href="mailto:wecare@dhanly.in"
                       className="underline font-semibold"
                     >
-                      partnership@aadifinance.org
+                      wecare@dhanly.in
                     </a>
                   </p>
                 </div>

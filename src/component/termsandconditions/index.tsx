@@ -247,7 +247,7 @@ export default function TermsAndCondition() {
             </p>
 
             <div className="mt-3 space-y-1">
-              <p>Email: partnership@aadifinance.org</p>
+              <p>Email: wecare@dhanly.in</p>
               <p>Phone: 9111249626</p>
             </div>
           </div>
@@ -314,7 +314,7 @@ export default function TermsAndCondition() {
                   <p>Aadi Finance</p>
                   <p>104, Shalimar, AB Road, Indore</p>
                   <p>Phone: 9111249626</p>
-                  <p>Email: partnership@aadifinance.org</p>
+                  <p>Email: wecare@dhanly.in</p>
                   <p>Time: Mon to Fri (9AM to 6PM)</p>
                 </div>
               </div>
@@ -361,7 +361,7 @@ export default function TermsAndCondition() {
 
                 <div className="mt-2 space-y-1">
                   <p>Phone: 9111249626</p>
-                  <p>Email: partnership@aadifinance.org</p>
+                  <p>Email: wecare@dhanly.in</p>
                 </div>
               </div>
 

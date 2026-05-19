@@ -208,7 +208,7 @@ export default function PrivacyPolicy() {
               <p>Aadi Finance</p>
               <p>104, Shalimar, AB Road, Indore</p>
               <p>Phone: 9111249626</p>
-              <p>Email: partnership@aadifinance.org</p>
+              <p>Email: wecare@dhanly.in</p>
               <p>Time: Mon to Fri (9AM to 6PM)</p>
             </div>
           </div>

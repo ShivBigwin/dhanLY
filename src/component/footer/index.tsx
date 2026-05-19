@@ -26,7 +26,7 @@ export default function Footer() {
       color: "from-blue-500 to-blue-700",
     },
     {
-      icon: "/social/instagram.png",
+      icon: "/social/insta.jpg",
       href: "https://instagram.com/DhanLY.fincap/",
       label: "Instagram",
       color: "from-pink-500 to-purple-600",
@@ -148,7 +148,7 @@ export default function Footer() {
                     <img
                       src={social.icon}
                       alt={social.label}
-                      className="w-10 h-10  group-hover:opacity-100 transition-opacity duration-300"
+                      className="w-12 h-12  group-hover:opacity-100 transition-opacity duration-300"
                     />
                   </Link>
                 </motion.div>
@@ -245,7 +245,7 @@ export default function Footer() {
                     href="info@DhanLYcapitallendings.in"
                     className="text-gray-900 hover:text-blue-600 transition-colors duration-300 font-medium"
                   >
-                    partnership@aadifinance.org
+                    wecare@dhanly.in
                   </a>
                 </div>
               </motion.li>

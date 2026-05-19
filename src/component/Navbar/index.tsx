@@ -117,7 +117,7 @@ export default function Navbar() {
             {/* LOGO */}
             <Link href="#" className="flex items-center space-x-2">
               <div className="w-20 h-20  rounded-xl flex items-center ">
-                <img src="dhanLY.png" alt="" />
+                <img src="DhanLY.png" alt="" />
               </div>
               {/* <span className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text text-transparent">
                 DhanLY

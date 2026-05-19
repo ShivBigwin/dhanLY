@@ -15,7 +15,7 @@ export default function Hero() {
 
   const slides = [
     {
-      image: "/background/slide-01.jpg",
+      image: "/background/meeting.png",
       title: "Your Trusted Financial Partner",
       subtitle: "Empowering you with comprehensive financial solutions",
       buttonText: "Get Loan Now",
@@ -24,7 +24,7 @@ export default function Hero() {
       textColor: "text-blue-800",
     },
     {
-      image: "/background/slide2.png",
+      image: "/background/family.png",
       title: "Fast & Easy Personal Loans",
       subtitle:
         "Quick approval process with competitive rates to fuel your personal growth and expansion",
@@ -267,7 +267,7 @@ export default function Hero() {
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
                 >
-                  <Link href="#">
+                  {/* <Link href="#">
                     <div className="relative group">
                       <div className="absolute -inset-1 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-2xl blur opacity-30 group-hover:opacity-50 transition duration-300" />
                       <div className="absolute -inset-1 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-2xl opacity-0 group-hover:opacity-20 transition duration-300" />
@@ -277,7 +277,7 @@ export default function Hero() {
                         className="relative w-40 md:w-48 h-auto rounded-xl transform transition-transform duration-300 group-hover:translate-y-[-2px] shadow-xl border border-gray-200"
                       />
                     </div>
-                  </Link>
+                  </Link> */}
                 </motion.div>
               </motion.div>
             </motion.div>
@@ -432,20 +432,18 @@ export default function Hero() {
           transition={{ duration: 1, delay: 1.5 }}
           className="mt-12 flex flex-wrap justify-center gap-4 md:gap-6"
         >
-          {["RBI Approved", "ISO Certified", "24/7 Support"].map(
-            (badge, index) => (
-              <motion.div
-                key={index}
-                whileHover={{ y: -3 }}
-                className="px-4 py-2 rounded-full bg-white/80 backdrop-blur-sm border border-gray-200 text-gray-700 text-sm font-medium shadow-sm hover:shadow-md transition-all duration-300"
-              >
-                <div className="flex items-center space-x-2">
-                  <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-                  <span>{badge}</span>
-                </div>
-              </motion.div>
-            ),
-          )}
+          {["Trusted", "24/7 Support"].map((badge, index) => (
+            <motion.div
+              key={index}
+              whileHover={{ y: -3 }}
+              className="px-4 py-2 rounded-full bg-white/80 backdrop-blur-sm border border-gray-200 text-gray-700 text-sm font-medium shadow-sm hover:shadow-md transition-all duration-300"
+            >
+              <div className="flex items-center space-x-2">
+                <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
+                <span>{badge}</span>
+              </div>
+            </motion.div>
+          ))}
         </motion.div>
       </div>
 
